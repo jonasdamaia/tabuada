@@ -1,0 +1,43 @@
+* {
+    background-color: rgb(124, 230, 98);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 3rem;
+    color: black;
+}
+
+#quadro {
+    color: black;
+    border: solid black;
+    align-items: center;
+    font-size: 1.5rem;
+    width: 700px;
+    margin: 0 auto;
+    height: 385px;
+}
+
+#input {
+    display: flex;
+    flex-direction: row;
+}
+
+#numero {
+    height: 20px;
+    margin-top: 27px;
+}
+
+#btn {
+    background-color: rgb(42, 119, 35);
+    width: 100px;
+    height: 30px;
+    margin: 0 auto;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 25px;
+    margin-left: 10px;
+}
